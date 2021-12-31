@@ -1,5 +1,6 @@
 # DemecOto
-Sıfır Araç Satış ve Servis Uygulaması
+Sıfır Araç Satış ve Servis İşlemleri Uygulaması
+
 
 # Images
 ![image](https://user-images.githubusercontent.com/86890722/147822525-9a5f337d-3981-4e1b-84fa-e946c400b762.png)
